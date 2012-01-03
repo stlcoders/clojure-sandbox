@@ -23,3 +23,4 @@ byteworks_enrollments.org
 *.aux
 *.dvi
 _site
+.lein-deps-sum
