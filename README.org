@@ -1,0 +1,3 @@
+* todo
+  - Test avg/solve method with results that include fractions
+    ( e.g. [ 22 1 ] should evaluate to [ 23/2 23/2 ]
