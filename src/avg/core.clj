@@ -1,8 +1,8 @@
 (ns avg.core)
 ; average each item in a vector with its neighbors
 
-;(defn avg [all]
-  ;(/ (apply + all) (count all)))
+(defn avg [all]
+   (/ (apply + all) (count all)))
 ;
 ;(defn neighborhood [coll i]
   ;(filter #(not (nil? %1))
