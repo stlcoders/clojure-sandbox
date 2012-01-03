@@ -1,8 +1,25 @@
-/pom.xml
-*jar
-/lib
-/classes
-/native
-/.lein-failures
-/checkouts
-/.lein-deps-sum
+.DS_Store
+*.log
+*.class
+*.jar
+*.zip
+.vim/doc/tags
+.LSOverride
+# Stupid IDEA workspaces
+*.iml
+*.iws
+*.ipr
+scripts/ace
+grails/drools0.2
+grails/grailsui/plugins
+HealthInsurance/
+byteworks_enrollments.org
+# Emacs dung
+*~
+.#*
+\#*\#
+*.log
+*.bz2
+*.aux
+*.dvi
+_site
